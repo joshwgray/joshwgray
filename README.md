@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://joshwgray.github.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/205411672-eb589407-43a9-484a-b0cc-ed7caf280776.png" alt="my banner"></a>
-</p>
+
 
 ### Hey 👋, I'm Josh Gray!
 
