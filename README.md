@@ -3,3 +3,6 @@
 ### Hey 👋, I'm Josh Gray!
 
 - details to follow....
+
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=joshwgray)](https://github.com/joshwgray)
