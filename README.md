@@ -1,7 +1,5 @@
 <p align=”center”>
 
-<img width="792" alt="Github" src="" />
-
 </p>
 
 ### Hey 👋, I'm Josh Gray!
