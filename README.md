@@ -1,32 +1,13 @@
-<p align=”center”>
 
-</p>
+### Hey 👋, I'm Josh Gray! <div align = 'right'>![](https://komarev.com/ghpvc/?username=joshwgray&color=blue)</div>
 
-### Hey 👋, I'm Josh Gray!
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/joshwgray)
 
-***
-
-### 🤝 Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joshwgray)
-
-</br>
-
-## 🔭 I'm currently working on
-
-- 
-***
-
-## 🌱 I'm currently learning
-
--
-***
-
-## 💼 Technical Skills
-
--
-***
-
-## 📈 GitHub Stats 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=joshwgray)](https://github.com/joshwgray)
+[![Twitter URL](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge)](https://twitter.com/_joshwgray)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshwgray&layout=compact)](https://github.com/joshwgray)
+
+</hr>
+<a href="https://github.com/joshwgray">
+  <img src="https://github-readme-stats.vercel.app/api?username=joshwgray&count_private=true&show_icons=true" />
+</a>
